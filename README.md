@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a facial recognition checker with Python
+- 🔭 I’m currently working on a "blackjack" game web page using JavaScript
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with have more effective codes
