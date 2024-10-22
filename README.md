@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-**PatyPerez7/PatyPerez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PatyPerez7/PatyPerez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a "blackjack" game web page using JavaScript
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on open source
+- 👯 I’m looking to collaborate on remote proyects
 - 🤔 I’m looking for help with have more effective codes
 - 💬 Ask me about the art
 - 📫 How to reach me: Email -> patolin0425@gmail.com
