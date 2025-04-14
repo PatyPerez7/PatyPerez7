@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on remote proyects
 - 🤔 I’m looking for help with have more effective codes
 - 💬 Ask me about the art
-- 📫 How to reach me: Email -> patolin0425@gmail.com
+- 📫 How to reach me: Email -> paty042502@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Van Gogh's predilection for the color yellow is explained by the fact that he took Digitalis purpurea, a substance used to treat manic-depressive, sedative and anti-epileptic crises.
